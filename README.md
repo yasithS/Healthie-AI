@@ -13,5 +13,5 @@ conda activate medChat
 ```
 ### install required dependencies
 ```bash
-pip install -r requierments.txt
+pip install -r requirements.txt
 ```
